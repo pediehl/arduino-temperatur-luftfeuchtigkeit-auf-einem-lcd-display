@@ -8,5 +8,4 @@ Mit dem Temperatur/Luftfeuchtigkeits-Sensor messen wir die Werte in der Umgebung
 ## Zielgruppe:
 Pfadfinderinnen und Pfadfinder
 
-
-http://dev-blog.vcp.de/temperatur-luftfeuchtigkeit-auf-einem-lcd-display/
+<!--http://dev-blog.vcp.de/temperatur-luftfeuchtigkeit-auf-einem-lcd-display/-->
